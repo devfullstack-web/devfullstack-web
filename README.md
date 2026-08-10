@@ -18,7 +18,7 @@
 
 ```javascript
 const devfullstackWeb = {
-  code: ["JavaScript", "TypeScript", "Python", "Go", "HTML/CSS"],
+  code: ["JavaScript", "TypeScript", "HTML5", "CSS3", "SQL"],
   technologies: {
     frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS", "Redux"],
     backend: ["Node.js", "Express", "NestJS", "RESTful APIs", "GraphQL"],
@@ -57,8 +57,7 @@ const devfullstackWeb = {
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-0055E5?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
@@ -83,23 +82,25 @@ const devfullstackWeb = {
 
 ### 🐍 GitHub Contribution Snake Animation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devfullstack-web/devfullstack-web/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devfullstack-web/devfullstack-web/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/devfullstack-web/devfullstack-web/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devfullstack-web/devfullstack-web/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devfullstack-web/devfullstack-web/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/devfullstack-web/devfullstack-web/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</p>
 
 ---
 
 ### 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfullstack-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfullstack-web&layout=compact&theme=tokyonight&hide_progress=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfullstack-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfullstack-web&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=devfullstack-web&theme=tokyonight"/>
+  <img height="165em" src="https://streak-stats.demolab.com/?user=devfullstack-web&theme=tokyonight" alt="Streak Stats"/>
 </p>
 
 ---

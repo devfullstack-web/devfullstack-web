@@ -16,71 +16,50 @@
 
 ### 🚀 About Me
 
-```javascript
-const devfullstackWeb = {
-  code: ["JavaScript", "TypeScript", "HTML5", "CSS3", "SQL"],
-  technologies: {
-    frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS", "Redux"],
-    backend: ["Node.js", "Express", "NestJS", "RESTful APIs", "GraphQL"],
-    database: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-    devops: ["Docker", "Git", "GitHub Actions", "Nginx", "Linux"]
-  },
-  currentFocus: "Building high-performance Enterprise Web Systems & Microservices",
-  architecture: ["Clean Architecture", "Domain-Driven Design", "Single-Query O(1) JOINs"],
-  passions: ["Clean Code", "UX/UI Excellence", "Open Source Contribution"]
-};
-```
-
-- 🔭 **Currently working on**: Scalable Web Applications & Enterprise Software Solutions.
-- 🌱 **Learning & Exploring**: Advanced System Architecture, Microservices, & Performance Engineering.
-- 💬 **Ask me about**: Fullstack JS/TS, React, Next.js, Node.js/NestJS, SQL/NoSQL & System Optimization.
+- 🔭 **Currently working on**: High-performance Enterprise Web Systems & Scalable Fullstack Architecture.
+- 🌱 **Learning & Exploring**: Advanced System Design, Cloud Microservices & Performance Engineering.
+- 💬 **Ask me about**: Fullstack JS/TS, React, Next.js, Vue.js, Node.js, NestJS, SQL & NoSQL Databases.
 - ⚡ **Goal**: Crafting seamless user experiences backed by robust, high-availability architecture.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Arsenal
 
-#### 🎨 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<h4 align="center">🌐 Frontend & UI</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend Arsenal" />
+  </a>
 </p>
 
-#### ⚙️ Backend & API Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-0055E5?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+<h4 align="center">⚙️ Backend & Database</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql&theme=dark" alt="Backend Arsenal" />
+  </a>
 </p>
 
-#### 🛢️ Databases & Storage
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<h4 align="center">🛠️ DevOps & Tools</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" alt="DevOps Arsenal" />
+  </a>
 </p>
 
-#### 🛠️ DevOps, Cloud & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
-### 🐍 GitHub Contribution Snake Animation
+### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -92,15 +71,27 @@ const devfullstackWeb = {
 
 ---
 
+### 🗺️ 3D Contribution Map
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devfullstack-web/devfullstack-web/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Map" width="100%"/>
+</p>
+
+---
+
 ### 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfullstack-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfullstack-web&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages"/>
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfullstack-web&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devfullstack-web&theme=tokyonight" alt="Repos Per Language"/>
 </p>
 
 <p align="center">
   <img height="165em" src="https://streak-stats.demolab.com/?user=devfullstack-web&theme=tokyonight" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devfullstack-web&theme=tokyonight" alt="Activity Graph"/>
 </p>
 
 ---

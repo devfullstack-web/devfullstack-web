@@ -1,9 +1,18 @@
-node_modules
-npm-debug.log*
-dist
-!svg-only/dist
-build
-.env
-.wrangler
-.dev.vars
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+dist/
+build/
+out/
+
+# System & IDE files
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local

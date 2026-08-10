@@ -57,16 +57,6 @@ Fullstack Web Developer with a strong foundation in modern web technologies and 
   </a>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
 ---
 
 ### Contribution Snake
@@ -113,7 +103,7 @@ Fullstack Web Developer with a strong foundation in modern web technologies and 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
   <a href="mailto:vothanhtrung1404@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-vothanhtrung1404%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Contact"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Contact"/>
   </a>
 </p>
 

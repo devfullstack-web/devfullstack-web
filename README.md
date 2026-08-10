@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Hi+there!+I'm+devfullstack-web;Fullstack+Web+Developer;Building+Modern+%26+Responsive+Web+Apps" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Hi+there!+I'm+devfullstack-web;Fullstack+Web+Developer;Building+Modern+Apps+%26+Local+AI+Integration" alt="Typing Banner" />
 </h1>
 
 <p align="center">
@@ -16,12 +16,13 @@
 
 ### About Me
 
-Fullstack Web Developer with a strong foundation in modern web technologies. Passionate about building clean, responsive user interfaces and efficient backend services.
+Fullstack Web Developer with a strong foundation in modern web technologies and hands-on experience integrating **Local AI / LLMs**. Passionate about building clean, responsive user interfaces, efficient backend APIs, and intelligent web applications.
 
 - **Frontend**: React, Next.js, Vue.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3.
 - **Backend**: Node.js, Express, NestJS, RESTful APIs, PostgreSQL, MongoDB, MySQL, Redis.
+- **AI & Local LLMs**: Configuring and integrating **Ollama**, **Local AI Models**, and **LangChain** into web systems.
 - **Tools & Workflow**: Docker, Git, GitHub, VSCode, Linux.
-- **Focus**: Writing clean code, mastering system architecture, and delivering high-quality web applications.
+- **Focus**: Writing clean code, mastering software architecture, and delivering high-quality web solutions.
 
 ---
 
@@ -41,6 +42,14 @@ Fullstack Web Developer with a strong foundation in modern web technologies. Pas
   </a>
 </p>
 
+<h4 align="left">AI &amp; Local LLMs Integration</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Local_AI-0055FF?style=for-the-badge&logo=openai&logoColor=white" alt="Local AI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+</p>
+
 <h4 align="left">DevOps &amp; Tools</h4>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -54,7 +63,7 @@ Fullstack Web Developer with a strong foundation in modern web technologies. Pas
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
@@ -109,5 +118,5 @@ Fullstack Web Developer with a strong foundation in modern web technologies. Pas
 </p>
 
 <p align="center">
-  <i>"Building modern web apps with clean code and continuous learning."</i>
+  <i>"Building modern web apps with clean code, Local AI integration, and continuous learning."</i>
 </p>

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Hi+there!+%F0%9F%90%8B+I'm+devfullstack-web;Fullstack+Web+Developer+%F0%9F%9A%80;Building+Scalable+%26+Modern+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Hi+there!+I'm+devfullstack-web;Senior+Fullstack+Web+Developer;Building+Scalable+%26+Modern+Web+Apps" alt="Typing Banner" />
 </h1>
 
 <p align="center">
@@ -14,44 +14,44 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🔭 **Currently working on**: High-performance Enterprise Web Systems & Scalable Fullstack Architecture.
-- 🌱 **Learning & Exploring**: Advanced System Design, Cloud Microservices & Performance Engineering.
-- 💬 **Ask me about**: Fullstack JS/TS, React, Next.js, Vue.js, Node.js, NestJS, SQL & NoSQL Databases.
-- ⚡ **Goal**: Crafting seamless user experiences backed by robust, high-availability architecture.
+Senior Fullstack Software Engineer with extensive experience in architecting scalable web applications, responsive user interfaces, and robust backend microservices.
+
+- **Frontend Core**: Specialized in React, Next.js, Vue.js, TypeScript, and modern CSS architecture (Tailwind CSS).
+- **Backend Infrastructure**: Expert in Node.js, Express, NestJS, RESTful API design, and Database Management (PostgreSQL, MongoDB, MySQL, Redis).
+- **Engineering Principles**: Focused on clean architecture, component modularity, performance optimization, and reliable CI/CD pipelines.
 
 ---
 
-### 🛠️ Tech Arsenal
+### Tech Arsenal
 
-<h4 align="center">🌐 Frontend & UI</h4>
-<p align="center">
+<h4 align="left">Frontend &amp; UI Architecture</h4>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend Arsenal" />
   </a>
 </p>
 
-<h4 align="center">⚙️ Backend & Database</h4>
-<p align="center">
+<h4 align="left">Backend &amp; Database Systems</h4>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql&theme=dark" alt="Backend Arsenal" />
   </a>
 </p>
 
-<h4 align="center">🛠️ DevOps & Tools</h4>
-<p align="center">
+<h4 align="left">DevOps &amp; Engineering Tools</h4>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" alt="DevOps Arsenal" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <br/>
   <img src="https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -59,7 +59,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Activity
 
 <p align="center">
   <picture>
@@ -71,7 +71,7 @@
 
 ---
 
-### 🗺️ 3D Contribution Map
+### 3D Contribution Map
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devfullstack-web/devfullstack-web/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Map" width="100%"/>
@@ -79,7 +79,7 @@
 
 ---
 
-### 📊 GitHub Analytics & Activity
+### GitHub Analytics &amp; Activity
 
 <p align="center">
   <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfullstack-web&theme=tokyonight" alt="GitHub Profile Summary"/>
@@ -96,17 +96,17 @@
 
 ---
 
-### 📬 Connect With Me
+### Contact &amp; Connect
 
 <p align="center">
   <a href="https://github.com/devfullstack-web" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
-  <a href="mailto:devfullstackweb@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:vothanhtrung1404@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-vothanhtrung1404%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Contact"/>
   </a>
 </p>
 
 <p align="center">
-  <i>✨ "Talk is cheap. Show me the code." — Linus Torvalds</i>
+  <i>"Turning complex software requirements into clean, scalable, and user-centric web applications."</i>
 </p>

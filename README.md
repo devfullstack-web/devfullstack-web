@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Hi+there!+I'm+devfullstack-web;Senior+Fullstack+Web+Developer;Building+Scalable+%26+Modern+Web+Apps" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Hi+there!+I'm+devfullstack-web;Fullstack+Web+Developer;Building+Modern+%26+Responsive+Web+Apps" alt="Typing Banner" />
 </h1>
 
 <p align="center">
@@ -16,31 +16,32 @@
 
 ### About Me
 
-Senior Fullstack Software Engineer with extensive experience in architecting scalable web applications, responsive user interfaces, and robust backend microservices.
+Fullstack Web Developer with a strong foundation in modern web technologies. Passionate about building clean, responsive user interfaces and efficient backend services.
 
-- **Frontend Core**: Specialized in React, Next.js, Vue.js, TypeScript, and modern CSS architecture (Tailwind CSS).
-- **Backend Infrastructure**: Expert in Node.js, Express, NestJS, RESTful API design, and Database Management (PostgreSQL, MongoDB, MySQL, Redis).
-- **Engineering Principles**: Focused on clean architecture, component modularity, performance optimization, and reliable CI/CD pipelines.
+- **Frontend**: React, Next.js, Vue.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3.
+- **Backend**: Node.js, Express, NestJS, RESTful APIs, PostgreSQL, MongoDB, MySQL, Redis.
+- **Tools & Workflow**: Docker, Git, GitHub, VSCode, Linux.
+- **Focus**: Writing clean code, mastering system architecture, and delivering high-quality web applications.
 
 ---
 
-### Tech Arsenal
+### Tech Stack
 
-<h4 align="left">Frontend &amp; UI Architecture</h4>
+<h4 align="left">Frontend &amp; UI</h4>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend Arsenal" />
   </a>
 </p>
 
-<h4 align="left">Backend &amp; Database Systems</h4>
+<h4 align="left">Backend &amp; Databases</h4>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql&theme=dark" alt="Backend Arsenal" />
   </a>
 </p>
 
-<h4 align="left">DevOps &amp; Engineering Tools</h4>
+<h4 align="left">DevOps &amp; Tools</h4>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" alt="DevOps Arsenal" />
@@ -59,7 +60,7 @@ Senior Fullstack Software Engineer with extensive experience in architecting sca
 
 ---
 
-### Contribution Activity
+### Contribution Snake
 
 <p align="center">
   <picture>
@@ -79,7 +80,7 @@ Senior Fullstack Software Engineer with extensive experience in architecting sca
 
 ---
 
-### GitHub Analytics &amp; Activity
+### GitHub Analytics
 
 <p align="center">
   <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfullstack-web&theme=tokyonight" alt="GitHub Profile Summary"/>
@@ -108,5 +109,5 @@ Senior Fullstack Software Engineer with extensive experience in architecting sca
 </p>
 
 <p align="center">
-  <i>"Turning complex software requirements into clean, scalable, and user-centric web applications."</i>
+  <i>"Building modern web apps with clean code and continuous learning."</i>
 </p>
